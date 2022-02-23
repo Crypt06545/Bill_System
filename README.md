@@ -1,4 +1,4 @@
 # Bill_System
 <p align="center">
-  <img src="imgs/Bill View.png">
+  <img src="imgs/BIll View.png">
 </p>
