@@ -1,1 +1,17 @@
 
+	Welcome Your Resturent
+
+ Bill Number    : 25729
+ Coustomer Name : mehadi
+ Phone Numbe    : 0154544******
+====================================
+Products		QTY	Price
+====================================
+ Spray		1		180
+ Cock		1		60
+------------------------------------
+ Cosmetics Tax			Tk 3.6
+ Grocery Tax			Tk 0.0
+ Cold Drink Tax			Tk 30.0
+ Total Bill: 			273.6
+------------------------------------
